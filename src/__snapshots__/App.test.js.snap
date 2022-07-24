@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Fragment>
+  <BrowserRouter>
+    <Routes>
+      <Route
+        element={<Blogs />}
+        path="/"
+      />
+      <Route
+        element={<BlogDetails />}
+        path="/:id"
+      />
+    </Routes>
+  </BrowserRouter>
+  <ToastContainer
+    autoClose={5000}
+    closeButton={[Function]}
+    closeOnClick={true}
+    draggable={true}
+    draggableDirection="x"
+    draggablePercent={80}
+    hideProgressBar={false}
+    newestOnTop={false}
+    pauseOnFocusLoss={true}
+    pauseOnHover={true}
+    position="top-right"
+    role="alert"
+    rtl={false}
+    theme="light"
+    transition={[Function]}
+  />
+</Fragment>
+`;
