@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-please add .env file and add REACT_APP_API_URL='backend server url' before starting the application
+please add .env file and add REACT_APP_API_URL='backend server url' before starting the application.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
